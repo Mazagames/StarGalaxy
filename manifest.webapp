@@ -1,0 +1,29 @@
+{
+  "version": "1.0.1",
+  "name": "Star Galaxy War",
+  "description": "Defeat the Rawan and Help Star BASE completing their missions, Visit different galaxy and trigger the war, fight ario.",
+  "type": "web",
+"fullscreen": "true",
+"Permissions": {
+"mobiledata":{},
+"wifidata":{}
+},
+  "launch_path": "/StarGalaxy",
+  "icons": {
+    "56": "/StarGalaxy/assets/icons/StarGalaxy_56.png",
+    "112": "/StarGalaxy/assets/icons/StarGalaxy_112.gif"
+  },
+  "developer": {
+    "name": "Maza Games",
+    "url": "cooltaby9@gmail.com"
+  },
+  "locales": {
+    "en-US": {
+      "name": "Star Galaxy War",
+      "subtitle": "Under water survival game",
+      "description": "Defeat the Rawan and Help Star BASE completing their missions, Visit different galaxy and trigger the war, fight ario."
+    }
+  },
+  "default_locale": "en-US"
+	
+}
